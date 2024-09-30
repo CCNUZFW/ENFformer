@@ -1,5 +1,54 @@
 # ENFformer: Long-Short Term Representation of Electric Network Frequency for Digital Audio Tampering Detection
 
+## Citation
+### APA
+[1] Zeng, C., Li, K., & Wang, Z. (2024). ENFformer: Long-short term representation of electric network frequency for digital audio tampering detection. Knowledge-Based Systems, 297, 111938. https://doi.org/10.1016/j.knosys.2024.111938
+
+[2] Zeng, C., Kong, S., Wang, Z., Feng, S., Zhao, N., & Wang, J. (2024). Deletion and insertion tampering detection for speech authentication based on fluctuating super vector of electrical network frequency. Speech Communication, 158, 103046. https://doi.org/10.1016/j.specom.2024.103046
+
+[3] Zeng, C., Kong, S., Wang, Z., Li, K., Zhao, Y., Wan, X., & Chen, Y. (2024). Discriminative Component Analysis Enhanced Feature Fusion of Electrical Network Frequency for Digital Audio Tampering Detection. Circuits, Systems, and Signal Processing. https://doi.org/10.1007/s00034-024-02787-y
+
+### BibTex
+@article{Zeng2024a,
+  title = {ENFformer: Long-Short Term Representation of Electric Network Frequency for Digital Audio Tampering Detection},
+  shorttitle = {ENFformer},
+  author = {Zeng, Chunyan and Li, Kun and Wang, Zhifeng},
+  year = {2024},
+  month = aug,
+  journal = {Knowledge-Based Systems},
+  volume = {297},
+  pages = {111938},
+  issn = {0950-7051},
+  doi = {10.1016/j.knosys.2024.111938},
+  urldate = {2024-05-28}
+}
+
+@article{Zeng2024b,
+  title = {Deletion and Insertion Tampering Detection for Speech Authentication Based on Fluctuating Super Vector of Electrical Network Frequency},
+  author = {Zeng, Chunyan and Kong, Shuai and Wang, Zhifeng and Feng, Shixiong and Zhao, Nan and Wang, Juan},
+  year = {2024},
+  month = mar,
+  journal = {Speech Communication},
+  volume = {158},
+  pages = {103046},
+  issn = {0167-6393},
+  doi = {10.1016/j.specom.2024.103046},
+  urldate = {2024-02-27}
+}
+
+@article{Zeng2024c,
+  title = {Discriminative Component Analysis Enhanced Feature Fusion of Electrical Network Frequency for Digital Audio Tampering Detection},
+  author = {Zeng, Chunyan and Kong, Shuai and Wang, Zhifeng and Li, Kun and Zhao, Yuhao and Wan, Xiangkui and Chen, Yunfan},
+  year = {2024},
+  month = jul,
+  journal = {Circuits, Systems, and Signal Processing},
+  issn = {1531-5878},
+  doi = {10.1007/s00034-024-02787-y},
+  urldate = {2024-08-17},
+  langid = {english}
+}
+
+
 ## About 
 This is an implementation of the ENFformer model referring to the following paper: ENFformer: Long-Short Term Representation of Electric Network Frequency for Digital
 Audio Tampering Detection
