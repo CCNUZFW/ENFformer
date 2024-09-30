@@ -1,6 +1,6 @@
 # ENFformer: Long-Short Term Representation of Electric Network Frequency for Digital Audio Tampering Detection
 
-## Citation
+## Citations
 ### APA
 [1] Zeng, C., Li, K., & Wang, Z. (2024). ENFformer: Long-short term representation of electric network frequency for digital audio tampering detection. Knowledge-Based Systems, 297, 111938. https://doi.org/10.1016/j.knosys.2024.111938
 
@@ -49,7 +49,7 @@
 }
 
 
-## About 
+## Introduction 
 This is an implementation of the ENFformer model referring to the following paper: ENFformer: Long-Short Term Representation of Electric Network Frequency for Digital
 Audio Tampering Detection
 
