@@ -9,43 +9,43 @@
 [3] Zeng, C., Kong, S., Wang, Z., Li, K., Zhao, Y., Wan, X., & Chen, Y. (2024). Discriminative Component Analysis Enhanced Feature Fusion of Electrical Network Frequency for Digital Audio Tampering Detection. Circuits, Systems, and Signal Processing. https://doi.org/10.1007/s00034-024-02787-y
 
 ### BibTex
-@article{Zeng2024a,
-  title = {ENFformer: Long-Short Term Representation of Electric Network Frequency for Digital Audio Tampering Detection},
-  shorttitle = {ENFformer},
-  author = {Zeng, Chunyan and Li, Kun and Wang, Zhifeng},
-  year = {2024},
-  month = aug,
-  journal = {Knowledge-Based Systems},
-  volume = {297},
-  pages = {111938},
-  issn = {0950-7051},
-  doi = {10.1016/j.knosys.2024.111938},
-  urldate = {2024-05-28}
+@article{Zeng2024a,<br>
+  title = {ENFformer: Long-Short Term Representation of Electric Network Frequency for Digital Audio Tampering Detection},<br>
+  shorttitle = {ENFformer},<br>
+  author = {Zeng, Chunyan and Li, Kun and Wang, Zhifeng},<br>
+  year = {2024},<br>
+  month = aug,<br>
+  journal = {Knowledge-Based Systems},<br>
+  volume = {297},<br>
+  pages = {111938},<br>
+  issn = {0950-7051},<br>
+  doi = {10.1016/j.knosys.2024.111938},<br>
+  urldate = {2024-05-28}<br>
 }
 
-@article{Zeng2024b,
-  title = {Deletion and Insertion Tampering Detection for Speech Authentication Based on Fluctuating Super Vector of Electrical Network Frequency},
-  author = {Zeng, Chunyan and Kong, Shuai and Wang, Zhifeng and Feng, Shixiong and Zhao, Nan and Wang, Juan},
-  year = {2024},
-  month = mar,
-  journal = {Speech Communication},
-  volume = {158},
-  pages = {103046},
-  issn = {0167-6393},
-  doi = {10.1016/j.specom.2024.103046},
-  urldate = {2024-02-27}
+@article{Zeng2024b,<br>
+  title = {Deletion and Insertion Tampering Detection for Speech Authentication Based on Fluctuating Super Vector of Electrical Network Frequency},<br>
+  author = {Zeng, Chunyan and Kong, Shuai and Wang, Zhifeng and Feng, Shixiong and Zhao, Nan and Wang, Juan},<br>
+  year = {2024},<br>
+  month = mar,<br>
+  journal = {Speech Communication},<br>
+  volume = {158},<br>
+  pages = {103046},<br>
+  issn = {0167-6393},<br>
+  doi = {10.1016/j.specom.2024.103046},<br>
+  urldate = {2024-02-27}<br>
 }
 
-@article{Zeng2024c,
-  title = {Discriminative Component Analysis Enhanced Feature Fusion of Electrical Network Frequency for Digital Audio Tampering Detection},
-  author = {Zeng, Chunyan and Kong, Shuai and Wang, Zhifeng and Li, Kun and Zhao, Yuhao and Wan, Xiangkui and Chen, Yunfan},
-  year = {2024},
-  month = jul,
-  journal = {Circuits, Systems, and Signal Processing},
-  issn = {1531-5878},
-  doi = {10.1007/s00034-024-02787-y},
-  urldate = {2024-08-17},
-  langid = {english}
+@article{Zeng2024c,<br>
+  title = {Discriminative Component Analysis Enhanced Feature Fusion of Electrical Network Frequency for Digital Audio Tampering Detection},<br>
+  author = {Zeng, Chunyan and Kong, Shuai and Wang, Zhifeng and Li, Kun and Zhao, Yuhao and Wan, Xiangkui and Chen, Yunfan},<br>
+  year = {2024},<br>
+  month = jul,<br>
+  journal = {Circuits, Systems, and Signal Processing},<br>
+  issn = {1531-5878},<br>
+  doi = {10.1007/s00034-024-02787-y},<br>
+  urldate = {2024-08-17},<br>
+  langid = {english}<br>
 }
 
 
